@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleFrameLayout</string>
+    <string name="person_name">홍길동</string>
+</resources>
